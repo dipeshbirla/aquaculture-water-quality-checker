@@ -1,6 +1,5 @@
 # sensor_reading.rb
-# Simple implementation for aquaculture water quality monitoring
-
+# Implementation for aquaculture water quality monitoring
 class SensorReading
   attr_reader :temperature, :ph, :dissolved_oxygen
   
