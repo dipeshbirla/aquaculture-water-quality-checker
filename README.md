@@ -51,7 +51,7 @@ end
 
 ---
 
-### Proof of acceptance
+### Proof of passing
 **Screenshot of all acceptance test passed**
 
 ![Acceptance Tests Passing](screenshots/acceptance-tests-passing.png)
