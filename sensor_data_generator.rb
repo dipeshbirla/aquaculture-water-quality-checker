@@ -3,6 +3,7 @@
 
 require 'json'
 require 'csv'
+require 'time'
 
 class SensorDataGenerator
   # Generate various test scenarios
